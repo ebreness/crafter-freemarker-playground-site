@@ -14,6 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+// test edit
 def topNavItems = [:]
 def siteDir = siteItemService.getSiteTree("/site/website", 2)
 if(siteDir) {
